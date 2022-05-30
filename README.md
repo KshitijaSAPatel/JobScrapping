@@ -7,7 +7,7 @@ Reference : https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-
 
 Referencing the above mentioned blog post I had used BeautifulSoup. The query, location and age (no of days) variables would have to be changed based on what you want. To auto-run the script at required frequency you can use crontab
 
-![Example of CSV created](/assets/images/tux.png)
+![Example of CSV created](https://github.com/KshitijaSAPatel/JobScrapping/blob/main/ExampleCSV.png)
 
 
 ### LinkedIn
